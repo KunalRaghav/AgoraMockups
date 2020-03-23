@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AgoraMockup</string>
+    <string name="button_login">login</string>
+    <string name="button_signup">signup</string>
+    <string name="button_facebook_login">login with facebook</string>
+    <string name="hint_username">Username</string>
+    <string name="title_login">Login</string>
+    <string name="hint_fullname">Full name</string>
+    <string name="helper_text_username">A username must be unique and can\'t have spaces</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_forgot_password">Forgot password</string>
+    <string name="hint_security_question">Security Question</string>
+    <string name="hint_security_answer">Security Answer</string>
+    <string name="helper_text_password">A password must be at least 8 characters long</string>
+    <string name="button_sign_up">sign up</string>
+    <string name="title_sign_up">Sign Up</string>
+    <string name="message_otp_sent">An OTP has been sent</string>
+    <string name="hint_otp">Enter OTP</string>
+    <string name="button_confirm">confirm</string>
+    <string name="title_otp">Two Factor Authentication</string>
+</resources>

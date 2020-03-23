@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#219653</color>
+    <color name="colorPrimaryDark">#0D7137</color>
+    <color name="colorAccent">#219653</color>
+    
+    <color name="statusbarColor">#EDEDED</color>
+    <color name="agoraYellow">#FFCE00</color>
+    <color name="facebookBlue">#40A7E1</color>
+</resources>
