@@ -19,4 +19,6 @@
     <string name="hint_otp">Enter OTP</string>
     <string name="button_confirm">confirm</string>
     <string name="title_otp">Two Factor Authentication</string>
+    <string name="bottom_nav_dashboard">Dashboard</string>
+    <string name="bottom_nav_account">Account</string>
 </resources>

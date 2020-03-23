@@ -7,4 +7,7 @@
     <color name="statusbarColor">#EDEDED</color>
     <color name="agoraYellow">#FFCE00</color>
     <color name="facebookBlue">#40A7E1</color>
+
+    <color name="bottomNavDarkSelected">#333333</color>
+    <color name="bottomNavLightNotSelected">#BDBDBD</color>
 </resources>

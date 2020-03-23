@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/dashboard_nav"
+        android:icon="@drawable/ic_dashboard"
+        app:showAsAction="always"
+        android:title="@string/bottom_nav_dashboard"/>
+
+    <item
+        android:id="@+id/account_nav"
+        android:icon="@drawable/ic_account"
+        app:showAsAction="always"
+        android:title="@string/bottom_nav_account"/>
+
+</menu>
