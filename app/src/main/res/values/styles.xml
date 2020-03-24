@@ -16,4 +16,22 @@
         <item name="android:windowBackground">@drawable/splash_screen</item>
     </style>
 
+    <style name="TextHeader">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/textHeaderColor</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextCardTitle">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="NumberCard">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">38sp</item>
+    </style>
+
 </resources>

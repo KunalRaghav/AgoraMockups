@@ -21,4 +21,12 @@
     <string name="title_otp">Two Factor Authentication</string>
     <string name="bottom_nav_dashboard">Dashboard</string>
     <string name="bottom_nav_account">Account</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_account">Account</string>
+    <string name="text_recent_elections">Recent elections</string>
+    <string name="text_categories">categories</string>
+    <string name="text_finished_election">Finished Election</string>
+    <string name="text_active_election">Active Election</string>
+    <string name="text_pending_election">Pending Election</string>
+    <string name="text_total_election">Total Election</string>
 </resources>

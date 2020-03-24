@@ -10,4 +10,6 @@
 
     <color name="bottomNavDarkSelected">#333333</color>
     <color name="bottomNavLightNotSelected">#BDBDBD</color>
+
+    <color name="textHeaderColor">#4F4F4F</color>
 </resources>
